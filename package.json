@@ -1,0 +1,19 @@
+{
+	"name": "@kilyakus/js-rayview",
+	"productName": "rayview",
+	"version": "1.2610.09617",
+	"description": "Reactive rays on Web Audio in one file and without dependencies: a self-building equalizer (its own canvas, Web Audio on the first play), the engine inside it and the template registry. Works in its own container, in a PadView background and as the backdrop of PlayView.",
+	"main": "js/rayview.obf.js",
+	"author": "Aleksandr Kilyakov (@Kilyakus)",
+	"authorUsername": "Kilyakus",
+	"license": "CC-BY-NC-4.0",
+	"licenseLegal": "Attribution-NonCommercial 4.0 International",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/kilyakus/js-rayview.git"
+	},
+	"build": {},
+	"publishConfig": {
+		"access": "public"
+	}
+}
